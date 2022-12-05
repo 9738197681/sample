@@ -1,5 +1,3 @@
-declerative pipeline:
-
 pipeline
 {
     agent any
